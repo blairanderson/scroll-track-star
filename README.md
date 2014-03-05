@@ -1,4 +1,10 @@
-scroll-track-star
+#Scroll Track Star
 =================
 
-A backbone/jquery scroll spy with html5 pushState
+##A Backbone/jQuery Scroll Spy with HTML5 pushState
+
+##Goals
+- __Should actively attach to all views at all times in a backbone views.__
+- __Should update the url with the id of the closest item in the viewPort__
+    - [https://github.com/vvo/in-viewport](https://github.com/vvo/in-viewport)
+- 
